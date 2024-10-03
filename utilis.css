@@ -1,0 +1,30 @@
+.b{
+    height: 100vh;
+}
+.ci{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 15px;
+    height: ;
+}
+main{
+    height: 180vh;
+}
+.gh{
+    position: relative;
+    top: 45px;
+}
+.ci img{
+    height: 108px;
+}
+.contain{   
+  
+    /*   */
+    height: 100vh;
+    width: 100vw;
+  
+    /* background-image: url(https://images.shiksha.com/mediadata/images/1488181886phptzvSEq.jpeg);
+    background-repeat: no-repeat; */
+    background-size: cover;
+    font-size: 25px;}   

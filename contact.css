@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+.contact{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    background-color: white;
+margin-left: 24px;
+}
+main{
+    background-color: #f7f7f7;
+}

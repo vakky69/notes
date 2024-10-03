@@ -1,0 +1,40 @@
+.by{
+    /* max-width: 40vw; */
+    /* height: 100vh; */
+    margin: auto;
+    /* display: flex; */
+    /* background-color: red; */
+    /* text-align: center;
+    justify-content: center; */
+ 
+
+}
+.iig{
+   width: 10vw;
+    display: inline flex;
+    flex-direction: column;
+    position: relative;
+    margin: 13px; 
+}
+.iig img {
+    position: relative;
+    height: 128px;
+    width: 128px;
+    /* margin: 0px 17px; */
+    /* left: 56px; */
+    bottom: 600px;
+}
+.line{
+    text-align: center;
+    position: relative;
+    bottom: 600px;
+}
+.t{
+  text-align: center;
+  position: relative;
+  top: 14px;
+  
+}
+body{
+    background-color: #f7f7f7;
+}

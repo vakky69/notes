@@ -1,0 +1,40 @@
+
+*{
+    text-transform: capitalize;
+ 
+    
+}.container{
+    border: rgba(128, 128, 128, 0.68) solid 1px;
+    position: relative;
+    margin: 27px ;
+     width: 600px;
+     background-color: white;
+     height: 342px;
+    }
+   
+     
+ 
+
+
+.menuDetails ul li{
+    list-style-type: none;
+        
+}
+.table{
+    padding: 0 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.d{
+    padding: 4px 37px;
+}
+.flex{
+    display: flex;
+    justify-content: center 
+}
+.pop{
+    font-weight: lighter;
+}
+main{
+    background-color: #f7f7f7;
+}

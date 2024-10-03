@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+
+.contact{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    background-color: #f7f7f7;
+margin-left: 34px;
+
+}
+.head{
+    margin-left: 24px;
+   font-family: 'Pacifico', cursive;;
+   padding: 12px;
+   
+}
+   
+
