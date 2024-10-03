@@ -207,13 +207,13 @@ nav ul li a:hover {
     @media screen and (max-width: 480px) and (max-height: 600px) {
     .ig{
         position: relative;
-        left: 5vh;
+        left: 0;
         
               
     }
     @media screen and (max-width: 480px) and (max-height: 600px) {
     .ige{
          position: relative;
-        left: 5vh;        
+        left: 0;        
              
     }
